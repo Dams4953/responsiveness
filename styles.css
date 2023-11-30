@@ -21,13 +21,10 @@ body {
     body {
         background-color: blue;
     }
-    #ensemble {
-        display: flex;
-        
-    }
+
 }
 
-
-
-
-
+#ensemble {
+    display: flex;
+    
+}
